@@ -1,0 +1,1 @@
+web: gunicorn IHaveAmnesia.wsgi --log-file -
